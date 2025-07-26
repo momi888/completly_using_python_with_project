@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "liked_pages": ["Cricket", "Music"]
+    },
+    {
+      "id": 2,
+      "liked_pages": ["Music", "Movies", "Technology"]
+    },
+    {
+      "id": 3,
+      "liked_pages": ["Cricket", "Photography", "Movies"]
+    },
+    {
+      "id": 4,
+      "liked_pages": ["Gaming", "Photography", "Movies"]
+    },
+    {
+      "id": 5,
+      "liked_pages": ["Cricket", "Gaming", "Music"]
+    }
+  ]
+}
